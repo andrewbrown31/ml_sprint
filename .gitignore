@@ -1,0 +1,4 @@
+*.e
+*.o
+.ipynb*
+__pycache*
